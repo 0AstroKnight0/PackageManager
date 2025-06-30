@@ -60,7 +60,7 @@ If you like to appreciate my efforts to provide this applications entirely free,
      alt=""
      height="50">](https://ko-fi.com/sunilpaulmathew/)
 
-#### Some other ways to support this project includes, but not limited to
+## Some other ways to support this project includes, but not limited to
 * Leave a good rating or/and review in [Google Play](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager) (It's free)!
 * Help me to [translate](https://poeditor.com/join/project?hash=0CitpyI1Oc) this application into your local language (or improve existing translations).
 * Share good words about this application with others (family, friends, and other enthusiastic android users).
